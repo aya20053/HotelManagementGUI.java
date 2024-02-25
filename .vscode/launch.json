@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ChefAdminWindow",
+            "request": "launch",
+            "mainClass": "ChefAdminWindow",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "ShowAdminsDialog",
+            "request": "launch",
+            "mainClass": "ShowAdminsDialog",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "EditAdminDialog",
+            "request": "launch",
+            "mainClass": "EditAdminDialog",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "ProfileForm",
+            "request": "launch",
+            "mainClass": "ProfileForm",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "AddRoomDialog",
+            "request": "launch",
+            "mainClass": "AddRoomDialog",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConnectionForm",
+            "request": "launch",
+            "mainClass": "ConnectionForm",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "GestionChambres",
+            "request": "launch",
+            "mainClass": "GestionChambres",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        },
+        {
+            "type": "java",
+            "name": "ReservationDialog",
+            "request": "launch",
+            "mainClass": "ReservationDialog",
+            "projectName": "HotelManagementGUI.java_11f34585"
+        }
+    ]
+}
